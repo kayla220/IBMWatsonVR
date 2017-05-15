@@ -1,5 +1,6 @@
 # IBMWatsonVR
-IBM Watson virtual recognition API examples
+
+# IBM Watson virtual recognition API examples
 
 You need to run this before testing;
 
